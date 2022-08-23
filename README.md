@@ -3,8 +3,8 @@ Phone wallpaper made with Blender3D using bpy library. Based on the <a href="htt
 Cameras, lights and minor adjustments done by hand (yet).
 
 <div id="badges">
-  <img src="https://github.com/lknknm/b3d_cuby_wallpaper/blob/main/output_images/cuby_wallpaper_01.png?raw=true" alt="LinkedIn Badge"/>
-  <img src="https://github.com/lknknm/b3d_cuby_wallpaper/blob/main/output_images/cuby_wallpaper_02.png?raw=true" alt="Youtube Badge"/>
-  <img src="https://github.com/lknknm/b3d_cuby_wallpaper/blob/main/output_images/cuby_wallpaper_03.png?raw=true" alt="Twitter Badge"/>
+  <img src="https://github.com/lknknm/b3d_cuby_wallpaper/blob/main/output_images/cuby_wallpaper_01.png?raw=true" width="350" alt="LinkedIn Badge"/>
+  <img src="https://github.com/lknknm/b3d_cuby_wallpaper/blob/main/output_images/cuby_wallpaper_02.png?raw=true" width="350" alt="Youtube Badge"/>
+  <img src="https://github.com/lknknm/b3d_cuby_wallpaper/blob/main/output_images/cuby_wallpaper_03.png?raw=true" width="350" alt="Twitter Badge"/>
 </div>
 
