@@ -22,4 +22,4 @@ It's possible to explore a lot more in Blender to actually do all of this automa
 
 
 > MIT License.
-You can fork this project and create your own Blender3D project/wallpaper without noticing me.
+You can fork this project and create your own Blender3D project/wallpaper without notifying me.
